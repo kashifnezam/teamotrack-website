@@ -1,0 +1,10 @@
+# robots.txt for TeamoTrack
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://teamotrack.com/sitemap.xml
+
+# Optional
+Crawl-delay: 2
