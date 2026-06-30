@@ -1,13 +1,14 @@
 [
   {
     "relation": [
-      "delegate_permission/common.handle_all_urls"
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
     ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.kashif.family_room",
       "sha256_cert_fingerprints": [
-        "F0:BA:C1:E4:38:1E:39:C0:30:4A:19:C3:20:2D:09:0F:90:9D:22:6D:89:7A:4B:5B:02:DE:4B:2A:08:0A:68:D8"
+        "92:8B:53:5A:2A:6F:49:92:CE:67:9F:09:8A:BE:92:70:5E:1F:EE:4F:77:11:E9:CD:8E:34:7F:01:78:1D:76:2B"
       ]
     }
   }
