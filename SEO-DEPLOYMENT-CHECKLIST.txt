@@ -1,0 +1,32 @@
+TEAMOTRACK SEO DEPLOYMENT CHECKLIST
+Generated: 2026-10-15
+
+Included improvements:
+- Page-specific titles and meta descriptions.
+- Canonical URLs for public pages.
+- Robots directives and Open Graph/Twitter metadata.
+- Homepage Organization, WebSite and SoftwareApplication JSON-LD.
+- Correctly named robots.txt and updated sitemap.xml.
+- Backup HTML pages marked noindex and canonicalized.
+- Legal/footer links across primary pages.
+- Legal name visible on homepage/contact where missing.
+
+Before publishing:
+1. Keep the existing assets/ directory and all original site assets.
+2. Confirm the legal name, email and phone are accurate.
+3. Confirm homepage claims, stats, customer logos/testimonials and feature statements are true and authorized. Remove anything that is not.
+4. Confirm the privacy/refund terms match your actual practices and payment checkout.
+5. Publish the ZIP contents to the GitHub Pages publishing root, preserving paths.
+6. Test:
+   https://teamotrack.com/robots.txt
+   https://teamotrack.com/sitemap.xml
+   https://teamotrack.com/contact.html
+   https://teamotrack.com/privacy-policy.html
+   https://teamotrack.com/terms-and-conditions.html
+   https://teamotrack.com/refund-policy.html
+7. In Google Search Console, verify the domain and submit https://teamotrack.com/sitemap.xml.
+8. Run PageSpeed Insights and the Rich Results Test after deployment.
+
+SEO cannot guarantee rankings or indexing. Search engines choose whether and how to index pages. Legal templates should be reviewed against your actual business practices.
+
+Contact details requested for this package: contact@teamotrack.com and +91 85212988388.
